@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Parse_Get-AppPackage": {
+      "commandName": "Project",
+      "commandLineArgs": "-i f:\\users\\jfins\\downloads\\AVSOUND.TXT -o f:\\users\\jfins\\downloads\\AVSOUND2.CSV"
+    }
+  }
+}
